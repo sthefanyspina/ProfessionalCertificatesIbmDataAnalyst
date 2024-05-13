@@ -18,12 +18,12 @@
   <li>Now go to By industry > Automotive > Data.</li>
   <li>Here the sample data used in this final assignment can be found, in a data module called Auto group data module. Right-click on Auto group data module and select Create Dashboard.</li></br>
 
-  <li>Create two dashboards as follows:</li>
-    
+  <li>Create two dashboards as follows:
     <ul>
       <li>One dashboard using the tabbed template that has 4 small rectangles at the top and a large rectangle below - rename this dashboard tab to Sales.</li>
       <li>One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Service.</li>
     </ul>
+  </li>
       
   <li>On the Sales dashboard, capture the following KPI metrics:</li>
       
