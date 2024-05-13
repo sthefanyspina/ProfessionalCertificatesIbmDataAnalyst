@@ -14,14 +14,14 @@
 <h3>Part 2: </h3>
 
 <ol>
-  <ul>
   <li>Format the data as a table: Use the Format as Table option to format the data as a table.</li>
   <li>Use AutoSum to calculate values: Use AutoSum to find the following values for column ‘C’ and record each of the values:</li>
-    <li>SUM</li>
-    <li>AVERAGE</li>
-    <li>MIN</li>
-    <li>MAX</li>
-    <li>COUNT</li>
+    <ul>
+      <li>SUM</li>
+      <li>AVERAGE</li>
+      <li>MIN</li>
+      <li>MAX</li>
+      <li>COUNT</li>
   </ul>
 
   <li>Create a Pivot Table: Use the PivotTable feature to create a pivot table that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the pivot table displays the sum of equipment count by department.</li>
