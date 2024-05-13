@@ -34,24 +34,24 @@
     </ul>
   </li>
       
-    <li>On the Sales dashboard in the large rectangle (Panel 5), display Profit by Dealer ID as a column chart, sorted in ascending order.</li>
-    <li>On the Service dashboard, capture the following KPI metrics as visualizations:
-      <ul>
-        <li>In the top left area (Panel 1), capture the number of recalls per model of car (as a column chart)</li>
-        <li>In the top right area (Panel 2), capture the customer sentiment by comparing positive, neutral, and negative reviews (as a treemap)</li>
-        <li>In the bottom left area (Panel 3), capture the quantity of cars sold per month compared to the profit (as a line and column chart).</li>
-        <li>In the bottom right area (Panel 4), capture the number of recalls by model and affected system (as a heat map). This will help us understand if there are any outliers for a given model or a specific system;</li>
+  <li>On the Sales dashboard in the large rectangle (Panel 5), display Profit by Dealer ID as a column chart, sorted in ascending order.</li>
+  <li>On the Service dashboard, capture the following KPI metrics as visualizations:
+    <ul>
+      <li>In the top left area (Panel 1), capture the number of recalls per model of car (as a column chart)</li>
+      <li>In the top right area (Panel 2), capture the customer sentiment by comparing positive, neutral, and negative reviews (as a treemap)</li>
+      <li>In the bottom left area (Panel 3), capture the quantity of cars sold per month compared to the profit (as a line and column chart).</li>
+      <li>In the bottom right area (Panel 4), capture the number of recalls by model and affected system (as a heat map). This will help us understand if there are any outliers for a given model or a specific system;</li>
     </ul>
   </li>
 
       
-    <li>To export your dashboard as a PDF, follow instructions below:
-      <ul>
-        <li>On the application toolbar of your dashboard page, click Share icon.</li>
-        <li>On the Export tab, check Include filters and click Export.</li>
-        <li>On the Print pop-up page, in the Destination drop-down list, select Save as PDF.</li>
-        <li>Save the PDF file on your local machine to any location you like (preferably your Downloads folder) for later upload and submission to the coursera platform.</li>
-      </ul>
-    </li>
+  <li>To export your dashboard as a PDF, follow instructions below:
+    <ul>
+      <li>On the application toolbar of your dashboard page, click Share icon.</li>
+      <li>On the Export tab, check Include filters and click Export.</li>
+      <li>On the Print pop-up page, in the Destination drop-down list, select Save as PDF.</li>
+      <li>Save the PDF file on your local machine to any location you like (preferably your Downloads folder) for later upload and submission to the coursera platform.</li>
+    </ul>
+  </li>
 </ol>
 
