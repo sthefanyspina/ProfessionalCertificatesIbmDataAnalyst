@@ -1,5 +1,3 @@
-# ProfessionalCertificatesIbmDataAnalyst
-
 <h3>What you'll learn</h3>
 <ul>
   <li>Master the most up-to-date practical skills and tools that data analysts use in their daily roles</li>
